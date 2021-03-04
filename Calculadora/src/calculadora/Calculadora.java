@@ -10,7 +10,7 @@ package calculadora;
  * @author Homed
  */
 public class Calculadora {
-
+    //jose cambio
     private int num1;
     private int num2;
 
