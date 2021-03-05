@@ -11,7 +11,7 @@ package calculadora;
  */
 public class Calculadora {
     //jose cambio
-    //segundo cambio
+   
     private int num1;
     private int num2;
 
