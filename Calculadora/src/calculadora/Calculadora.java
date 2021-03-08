@@ -10,8 +10,8 @@ package calculadora;
  * @author Homed
  */
 public class Calculadora {
-  
-   
+    //se ha realizado un cambio se ha añadido este comentario
+     
     private int num1;
     private int num2;
 
