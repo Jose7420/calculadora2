@@ -10,8 +10,7 @@ package calculadora;
  * @author Homed
  */
 public class Calculadora {
-    //jose cambio
-    //cambio segundo en la nube
+  
    
     private int num1;
     private int num2;
