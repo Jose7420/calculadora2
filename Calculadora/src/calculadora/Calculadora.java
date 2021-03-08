@@ -12,7 +12,7 @@ package calculadora;
 public class Calculadora {
     //se ha realizado un cambio se ha añadido este comentario
     
-     //local**
+     //final de la prueba
     private int num1;
     private int num2;
 
